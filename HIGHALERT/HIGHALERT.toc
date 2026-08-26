@@ -1,0 +1,8 @@
+## Interface: 100200
+## Notes: Shows Buff/Debuffs on the Target portrait
+## Author: Atwasd
+## Title: HIGHALERT
+
+core.lua
+
+spellDB.lua
