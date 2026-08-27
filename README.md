@@ -4,4 +4,3 @@
 
 A simple and lightweight addon for WotLK that shows your custom spells and target/focus spells as larger auras.
 
-<meta name="google-site-verification" content="89aLKddRpK5OLyH9dHS_HCLwE7BuguTYbfKCMakgQXs" />
